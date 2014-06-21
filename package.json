@@ -1,0 +1,17 @@
+{
+	"name": "proper_node",
+	"version": "0.0.1",
+	"description": "POO Node",
+	"repository":
+	{
+		"type": "git",
+		"url": "https://github.com/Leeios/meuh.git"
+	},
+	"dependencies":
+	{
+		"express": "latest",
+		"socket.io": "latest",
+		"jade": "latest",
+		"config": "latest"
+	}
+}

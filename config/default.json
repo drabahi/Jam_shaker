@@ -1,0 +1,11 @@
+{
+	"Default": {
+		"Host": "localhost",
+		"Port": 3000,
+		"dbHost": "mongodb",
+		"dbName": "game",
+		"dbPort": 10065,
+		"dbUser": "lili",
+		"dbPwd": "castor"
+	}
+}
